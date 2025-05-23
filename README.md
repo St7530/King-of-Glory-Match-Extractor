@@ -31,7 +31,7 @@ Automatically extract match data from pvp.qq.com
 
 ## How I build this
 
-1. Analyse the key JavaScript code: https://pvp.qq.com/matchdata/js/scheduleDetails.js
+1. Analyse the key JavaScript code: https://pvp.qq.com/matchdata/js/scheduleDetails.js ([Archived](scheduleDetails.js))
 2. Develop a UserScript that processes all the data and automatically jumps to the next battle or match.
 3. Develop a simple Python backend that saves the data to a CSV file.
 
